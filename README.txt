@@ -1,0 +1,1 @@
+Jango keyboard is developed for medical professionals.
